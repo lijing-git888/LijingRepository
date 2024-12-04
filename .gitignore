@@ -1,8 +1,6 @@
-# 忽略bin目录及其子目录下的所有内容
-   /bin/**
-
-# 忽略obj目录及其子目录下的所有内容
-   /obj/**
-
-# 忽略.vs目录及其子目录下的所有内容
-   /.vs/**
+# ... existing code ...
+/.vs/
+/Hello0/ApiGateway/obj/
+/Hello0/Hello0/.vs/
+/Hello0/Hello0/obj/
+# ... existing code ...
